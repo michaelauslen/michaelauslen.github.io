@@ -339,3 +339,11 @@ section {
 details p {
 	margin-bottom: 0.5em;
 }
+
+
+details summary {
+  background-color: #fff;
+  margin-bottom: 0.5em;
+  cursor: pointer;
+}
+
