@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: /research/statnews_auslen.pdf
+redirect_to: /research/statenews_auslen_merged.pdf
 ---
